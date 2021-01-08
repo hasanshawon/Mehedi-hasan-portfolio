@@ -12,8 +12,12 @@ body{
 
     color:aqua;
 }
+.half-width{
 
 
+    width:40%;
+    float:left;
+}
 
 
 
