@@ -2,7 +2,7 @@
 body{
 
 
-
+    margin:0px;
     font-family: 'Roboto', sans-serif;
 
 }
@@ -14,13 +14,40 @@ body{
 }
 .allah{
 
+ width:40%;
+ float:left;
+ margin-left:5%;
+ padding-left:2%;}
+ .allah img{
 
-    width:40%;
-    float:left;
+    width: 100%;
+ 
+   
+}
+.top-banner{
+background-image:url(images/top-banner.png) ;
+background-repeat: no-repeat;
+
+
+
+
 }
 
+section{
+
+height: 700px;
+
+}
+.link-button{
+text-decoration: none;
+background-image:linear-gradient(salmon,tomato);
+padding:10px 20px;
+border-radius: 10px;
+color: white;
+font-weight: 700;
 
 
+}
 
 
 
